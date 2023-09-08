@@ -25,3 +25,4 @@ Calculate and return the perimeter of the rectangle (2 * length + 2 * width).
 
 Check if the rectangle is a square. Returns `True` if it's a square (length equals width), and `False` otherwise.
 
+## Solution: Solution for the abouve question is: https://github.com/itzsshashank/OOP_Python_Basic_Questions/blob/main/Rectangle_Class/Rectangle_Class.py
