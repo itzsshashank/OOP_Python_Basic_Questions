@@ -33,3 +33,7 @@ print(p1.get_balance())  # Output: "Your balance is 1500"
 print(p1.withdraw(4000))  # Output: "Invalid withdrawal request of amount 4000, your account has 1500"
 ```
 
+## Solution: 
+The Solution for the following question is: https://github.com/itzsshashank/OOP_Python_Basic_Questions/blob/main/Bank_Account/Bank_Account_Class.py
+
+
