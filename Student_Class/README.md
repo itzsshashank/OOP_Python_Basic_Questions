@@ -17,6 +17,9 @@ Initialize a student with a given `name` and `marks`. This method increments the
 
 Calculate and return the average marks of all students.
 
+#### `get_student_marks(self):`
+Fetch the Marks of Student
+
 #### `get_student_info(self)`
 
 Given a student's `name`, return a string in the format "Name: {name}, Marks: {marks}".
